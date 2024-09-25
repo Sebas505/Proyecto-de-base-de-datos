@@ -1,3 +1,6 @@
+Juan Sebastian Velasquez 10.D
+
+
 Usuario (User):
 ID_Usuario (PK): Identificador único del usuario (Número o alfanumérico).
 Nombre: Nombre del usuario (Texto).
